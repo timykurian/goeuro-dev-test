@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="GoEuroTest">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/out/artifacts/GoEuroTest_jar/GoEuroTest.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
